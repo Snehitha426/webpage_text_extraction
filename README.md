@@ -1,4 +1,3 @@
-Here's a `README.md` file template that you can use for your GitHub repository. It explains how to use your Python script with Selenium to extract text content from a webpage:
 # Web Content Extractor using Selenium
 
 This project extracts text content from a webpage (including dynamically loaded content via JavaScript) and saves it to a `.txt` file using Selenium and ChromeDriver.
