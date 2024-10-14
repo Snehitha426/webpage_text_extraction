@@ -1,0 +1,31 @@
+import requests
+from bs4 import BeautifulSoup
+
+def extract_text_from_url(url, output_file):
+    try:
+        # Fetch the content from the URL
+        response = requests.get(url)
+        
+        # Check if the request was successful
+        if response.status_code == 200:
+            # Parse the webpage content
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Extract all the text from the page
+            text = soup.get_text(separator="\n")
+            
+            # Save the extracted text to a .txt file
+            with open(output_file, "w", encoding="utf-8") as file:
+                file.write(text)
+            
+            print(f"Text content successfully written to {output_file}")
+        else:
+            print(f"Failed to fetch the URL. Status code: {response.status_code}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+# Input URL from the user
+if __name__ == "__main__":
+    url = input("Enter the URL: ")
+    output_file = "output.txt"  # You can change the output file name if needed
+    extract_text_from_url(url, output_file)

@@ -1,0 +1,174 @@
+Enter | Register
+
+HOME
+TOP
+CATALOG
+CONTESTS
+GYM
+PROBLEMSET
+GROUPS
+RATING
+EDU
+API
+CALENDAR
+HELP
+
+Please read the new rule regarding the restriction on the use of AI tools.
+×
+
+→ Pay attention
+Before contest
+Educational Codeforces Round 170 (Rated for Div. 2)
+09:11:58
+Register now »
+→ Streams
+CF Edu Round 170 Solution Discussion
+By aryanc403
+Before stream 11:21:56
+View all →
+→ Top rated
+# User Rating
+1 tourist 4009
+2 jiangly 3839
+3 Radewoosh 3646
+4 jqdai0815 3620
+4 Benq 3620
+6 orzdevinwang 3612
+7 Geothermal 3569
+8 ecnerwala 3494
+9 Um_nik 3396
+10 gamegame 3386
+Countries | Cities | Organizations View all →
+→ Top contributors
+# User Contrib.
+1 maomao90 164
+2 Um_nik 163
+3 atcoder_official 159
+4 cry 158
+5 -is-this-fft- 157
+6 adamant 156
+7 awoo 155
+8 nor 154
+9 TheScrasse 153
+10 Dominater069 152
+View all →
+→ Find user
+Handle:
+→ Recent actions
+-200 → Is there a problem with Codeforces or what?   
+adamant → CP-Algorithms: Hacktoberfest 2024 + call for contributors and maintainers   
+989 → I'm from the future: ask your questions about the world of tomorrow!   
+TheScrasse → Editorial of Codeforces Round 975 (Div. 1, Div. 2)   
+awoo → Educational Codeforces Round 170 [Rated for Div. 2]   
+jampm → Codeforces Round 978 (Div. 2)   
+OIer_Cosmos → Seeking Help: How to Change Problem Scores in Codeforces Mashup Contests   
+Yandex → Yandex Cup 2024!   
+atcoder_official → Panasonic Programming Contest 2024（AtCoder Beginner Contest 375） Announcement   
+n0b0dy01 → Bug Fixing   
+raybb → Cannot Disable Manager Mode   
+123gjweq2 → What is your least favorite type of problem?   
+bashkort → Codeforces Month of Blog Posts Pt. II (Win $800+!)   
+ducmatgoctoanlyhoa → Find all substrings of a string of digits that forms a number divisible by 2019   
+WeakestTopology → The discrete derivative, falling factorials and polynomials   
+Kevin114514 → About AtCoder contests   
+luogu_official → CSP-J/S 2024 Simulation Test   
+PaciukZvichainyi → Busy but Master #2   
+atcoder_official → AtCoder Regular Contest 185 Announcement   
+C_c-c_C → A doubt that I badly want to clear.   
+FAhmidamim → algorithm   
+Safan05 → Round 978 upsolve   
+pwned → Streaming my Informatics Training (ThemeCPs)   
+MikeMirzayanov → Rule Restricting the Use of AI [revision 2024-09-14]   
+ghoudiy → CFKIT: The Ultimate CLI Tool for Codeforces   
+Detailed →
+TOURIST
+BLOG
+TEAMS
+SUBMISSIONS
+GROUPS
+CONTESTS
+PROBLEMSETTING
+STREAMS
+Tourist
+tourist
+Gennady Korotkevich, Gomel, Belarus
+From ITMO University
+Contest rating: 4009 (max. tourist, 4009)
+Contribution: +135
+Friend of: 73,321 users
+Last visit: online now
+Registered: 15 years ago
+Blog entries (42), comments
+Talks | Send message
+                        Only rated
+                        All
+                     2012
+2014
+2016
+2018
+2020
+2022
+2024
+1200
+1400
+1600
+1900
+2100
+2300
+2400
+2600
+3000
+tourist
+Only public activity
+                                    Choose year
+                                        2024
+                                        2023
+                                        2022
+                                        2021
+                                        2020
+                                        2019
+                                        2018
+                                        2017
+                                        2016
+                                        2015
+                                        2014
+                                        2013
+                                        2012
+                                        2011
+                                        2010
+                                 Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Mon
+Wed
+Fri
+"Your browser does not support inline SVG."
+2641 problems
+solved for all time
+395 problems
+solved for the last year
+36 problems
+solved for the last month
+5 days
+in a row max.
+5 days
+in a row for the last year
+2 days
+in a row for the last month
+
+Codeforces (c) Copyright 2010-2024 Mike Mirzayanov
+The only programming contests Web 2.0 platform
+Server time: Oct/14/2024 10:52:57UTC+5.5 (l2).
+Desktop version, switch to mobile version.
+Privacy Policy
+Supported by
+ 
