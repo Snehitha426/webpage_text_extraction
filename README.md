@@ -87,9 +87,4 @@ Feel free to open issues or submit pull requests for improvements or new feature
 
 This project is licensed under the MIT License.
 
-
-### Instructions:
-1. Replace `https://github.com/Snehitha426/webpage_text_extraction.git` with the actual URL of your GitHub repository.
-2. Save this content in a file named `README.md` and upload it to your repository.
-
 This file includes installation, usage instructions, troubleshooting tips, and a basic structure for contributing to the project.
