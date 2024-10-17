@@ -32,7 +32,7 @@ pip install selenium
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-Snehitha426/web-content-extractor.git
+git clone https://github.com/Snehitha426/web-content-extractor.git
 ```
 
 ### 3. Update `driver_path`
@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 
 ### Instructions:
-1. Replace `https://github.com/your-Snehitha426/web-content-extractor.git` with the actual URL of your GitHub repository.
+1. Replace `https://github.com/Snehitha426/web-content-extractor.git` with the actual URL of your GitHub repository.
 2. Save this content in a file named `README.md` and upload it to your repository.
 
 This file includes installation, usage instructions, troubleshooting tips, and a basic structure for contributing to the project.
